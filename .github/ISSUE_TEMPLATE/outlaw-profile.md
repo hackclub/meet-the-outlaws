@@ -24,19 +24,19 @@ Check out https://i.pinimg.com/originals/ae/59/98/ae59988082acf691296ee22fcbefcb
 Here is a very low quality example: https://github.com/hackclub/meet-the-outlaws/blob/main/examples/outfit.jpg?raw=true. Please do better.
 -->
 
-**Let's learn a little more about where this outlaw is from. What is a much loved food from their home country?**
+**Let's learn a little more about where this outlaw is from. What is a much loved food from their home state/country?**
 
-**Now, what's a much loved food from their home country that you would _never eat_?**
+**Now, what's a much loved food from their home state/country that you would _never eat_?**
 
-**So what is the weirdest fact you can find about this outlaw's home country?**
+**So what is the weirdest fact you can find about this outlaw's home state/country?**
 
 <!---
 Things like, did you know Australia went to war with emus? (s/o to the Kahoot squad)
 -->
 
-**Find a meme about this outlaw's country**
+**Find a meme about this outlaw's state/country**
 
-**Attempt to make a sentence using slang from this country**
+**Attempt to make a sentence using slang from this state/country**
 
 **Find this outlaw on Slack and find the weirdest message they've ever sent publicly**
 
