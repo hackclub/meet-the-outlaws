@@ -1,2 +1,2 @@
 # 🤠 Meet The Outlaws
-Powering the Meet the Outlaws Scavenger Hunter!
+Powering the Meet the Outlaws Scavenger Hunt!
